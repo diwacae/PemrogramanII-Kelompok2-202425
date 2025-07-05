@@ -1,5 +1,6 @@
-Diwa Caesare FAjri/221011400269
----
+KELOMPOK 2 
+(Diwa Caesare Fajri, Dwi Risqi Tristiyanto Putro, Fahmi Ahmad 
+Rizaldi, Fajril Kemal Fathan, Fardhan Failul Alal).
 
 ## 🛠️ Cara Menjalankan
 
